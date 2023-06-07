@@ -1,0 +1,41 @@
+.anchorpane{
+    -fx-background-color: lightgray;
+}
+.p1{
+    -fx-border-color: brown;
+}
+.label{
+ -fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 15px;
+    
+}
+.button1{
+    -fx-background-color: blue;
+ -fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 15px;
+}
+.btn1{
+     -fx-pref-width: 82;
+ -fx-pref-height: 31;
+ -fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 15px;
+}
+.btndelete{
+       -fx-pref-width: 100;
+ -fx-pref-height: 31;
+  -fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 15px;
+}
+.btn12{
+      -fx-pref-width: 111;
+ -fx-pref-height: 31;
+ -fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 15px;
+}
+
+

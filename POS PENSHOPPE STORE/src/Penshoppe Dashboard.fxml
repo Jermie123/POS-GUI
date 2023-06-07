@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane prefHeight="626.0" prefWidth="1204.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane id="AnchorPane" prefHeight="626.0" prefWidth="784.0" styleClass="anchorpane">
+         <children>
+            <Pane layoutX="83.0" layoutY="57.0" prefHeight="142.0" prefWidth="150.0" styleClass="p1">
+               <children>
+                  <ImageView fitHeight="167.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true" styleClass="p1">
+                     <image>
+                        <Image url="@p1.jpg" />
+                     </image></ImageView>
+                  <Label layoutY="118.0" text="CAP" />
+               </children>
+            </Pane>
+            <Pane layoutX="262.0" layoutY="49.0" prefHeight="150.0" prefWidth="150.0" styleClass="p2">
+               <children>
+                  <ImageView fitHeight="157.0" fitWidth="150.0" layoutY="7.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@p2.jpg" />
+                     </image></ImageView>
+                  <Label layoutY="126.0" text="PANTS" />
+               </children>
+            </Pane>
+            <Pane layoutX="438.0" layoutY="53.0" prefHeight="142.0" prefWidth="150.0" styleClass="p3">
+               <children>
+                  <ImageView fitHeight="150.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@p3.jpg" />
+                     </image>
+                  </ImageView>
+                  <Label layoutX="7.0" layoutY="118.0" text="SHIRT" />
+               </children>
+            </Pane>
+            <Pane layoutX="89.0" layoutY="354.0" prefHeight="150.0" prefWidth="150.0" styleClass="p4">
+               <children>
+                  <ImageView fitHeight="167.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@p6.jpg" />
+                     </image>
+                  </ImageView>
+                  <Label layoutX="1.0" layoutY="125.0" text="HOODIE" />
+               </children>
+            </Pane>
+            <Pane layoutX="262.0" layoutY="354.0" prefHeight="142.0" prefWidth="150.0" styleClass="p5">
+               <children>
+                  <ImageView fitHeight="167.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@p4.jpg" />
+                     </image></ImageView>
+                  <Label layoutY="118.0" text="POLO SHIRT" />
+               </children>
+            </Pane>
+            <Pane layoutX="438.0" layoutY="354.0" prefHeight="142.0" prefWidth="150.0" styleClass="p6">
+               <children>
+                  <ImageView fitHeight="167.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@p5.jpg" />
+                     </image></ImageView>
+                  <Label layoutY="118.0" text="SLIPERS" />
+               </children>
+            </Pane>
+            <Pane layoutX="614.0" layoutY="53.0" prefHeight="142.0" prefWidth="150.0">
+               <children>
+                  <ImageView fitHeight="150.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@p7.jpg" />
+                     </image>
+                  </ImageView>
+                  <Label layoutX="7.0" layoutY="118.0" text="HOODIE" />
+               </children>
+            </Pane>
+            <Pane layoutX="614.0" layoutY="350.0" prefHeight="142.0" prefWidth="150.0">
+               <children>
+                  <ImageView fitHeight="150.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@p8.jpg" />
+                     </image>
+                  </ImageView>
+                  <Label layoutX="14.0" layoutY="118.0" text="POLO SHIRT" />
+               </children>
+            </Pane>
+            <Button layoutX="150.0" layoutY="217.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="82.0" styleClass="btn1" text="ADD">
+               <graphic>
+                  <ImageView fitHeight="21.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons8_Fast_Cart_16.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button layoutX="347.0" layoutY="217.0" mnemonicParsing="false" styleClass="btn1" text="ADD">
+               <graphic>
+                  <ImageView fitHeight="21.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons8_Fast_Cart_16.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button layoutX="525.0" layoutY="212.0" mnemonicParsing="false" styleClass="btn1" text="ADD">
+               <graphic>
+                  <ImageView fitHeight="21.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons8_Fast_Cart_16.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button layoutX="699.0" layoutY="212.0" mnemonicParsing="false" styleClass="btn1" text="ADD">
+               <graphic>
+                  <ImageView fitHeight="21.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons8_Fast_Cart_16.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button layoutX="177.0" layoutY="513.0" mnemonicParsing="false" styleClass="btn1" text="ADD">
+               <graphic>
+                  <ImageView fitHeight="21.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons8_Fast_Cart_16.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button layoutX="347.0" layoutY="513.0" mnemonicParsing="false" styleClass="btn1" text="ADD">
+               <graphic>
+                  <ImageView fitHeight="21.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons8_Fast_Cart_16.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button layoutX="525.0" layoutY="513.0" mnemonicParsing="false" styleClass="btn1" text="ADD">
+               <graphic>
+                  <ImageView fitHeight="21.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons8_Fast_Cart_16.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button layoutX="699.0" layoutY="513.0" mnemonicParsing="false" styleClass="btn1" text="ADD">
+               <graphic>
+                  <ImageView fitHeight="21.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons8_Fast_Cart_16.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Label layoutX="89.0" layoutY="217.0" prefHeight="31.0" prefWidth="61.0" text="P300.00" />
+            <Label layoutX="284.0" layoutY="217.0" prefHeight="31.0" prefWidth="61.0" text="P999.00" />
+            <Label layoutX="460.0" layoutY="212.0" prefHeight="31.0" prefWidth="58.0" text="P599.00" />
+            <Label layoutX="632.0" layoutY="212.0" prefHeight="31.0" prefWidth="66.0" text="P1299.00" />
+            <Label layoutX="106.0" layoutY="518.0" text="P1299.00" />
+            <Label layoutX="284.0" layoutY="518.0" text="P699.00" />
+            <Label layoutX="460.0" layoutY="518.0" text="P399.00" />
+            <Label layoutX="636.0" layoutY="518.0" text="P599.00" />
+            <Button layoutX="86.0" layoutY="14.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="129.0" styleClass="button1" text="SHIRTS" />
+            <Button layoutX="226.0" layoutY="14.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="129.0" styleClass="button1" text="CAP" />
+            <Button layoutX="365.0" layoutY="14.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="129.0" styleClass="button1" text="PANTS" />
+            <Button layoutX="502.0" layoutY="14.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="129.0" styleClass="button1" text="HOODIE" />
+            <Button layoutX="642.0" layoutY="14.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="129.0" styleClass="button1" text="SLIPPERS" />
+         </children>
+      </AnchorPane>
+      <Pane layoutX="784.0" prefHeight="53.0" prefWidth="359.0">
+         <children>
+            <Label layoutX="14.0" layoutY="16.0" text="ITEM" />
+            <Label layoutX="125.0" layoutY="16.0" text="QTY" />
+            <Label layoutX="210.0" layoutY="16.0" text="PRICE" />
+            <Label layoutX="310.0" layoutY="16.0" text="DELETE" />
+         </children>
+      </Pane>
+      <ImageView fitHeight="62.0" fitWidth="82.0" layoutX="792.0" layoutY="53.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@p1.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="62.0" fitWidth="82.0" layoutX="792.0" layoutY="128.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@p3.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="62.0" fitWidth="82.0" layoutX="792.0" layoutY="200.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@p6.jpg" />
+         </image>
+      </ImageView>
+      <Button layoutX="1075.0" layoutY="60.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="100.0" styleClass="btndelete" text="DELETE">
+         <graphic>
+            <ImageView fitHeight="21.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons8_empty_trash_16.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button layoutX="1075.0" layoutY="144.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="82.0" styleClass="btndelete" text="DELETE">
+         <graphic>
+            <ImageView fitHeight="21.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons8_empty_trash_16.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button layoutX="1075.0" layoutY="216.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="82.0" styleClass="btndelete" text="DELETE">
+         <graphic>
+            <ImageView fitHeight="21.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons8_empty_trash_16.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Label layoutX="925.0" layoutY="65.0" text="1" />
+      <Label layoutX="988.0" layoutY="65.0" text="P300.00" />
+      <Label layoutX="925.0" layoutY="149.0" text="2" />
+      <Label layoutX="988.0" layoutY="149.0" text="P1,198.00" />
+      <Label layoutX="925.0" layoutY="221.0" text="2" />
+      <Label layoutX="988.0" layoutY="221.0" text="P2,598.00" />
+      <Label layoutX="792.0" layoutY="407.0" text="DISCOUNT" />
+      <Label layoutX="793.0" layoutY="450.0" text="SUB TOTAL" />
+      <Label layoutX="793.0" layoutY="490.0" text="TOTAL" />
+      <Label layoutX="1125.0" layoutY="407.0" text="0%" />
+      <Label layoutX="1103.0" layoutY="450.0" text="P4096.00" />
+      <Label layoutX="1103.0" layoutY="490.0" text="P4096.00" />
+      <Button layoutX="791.0" layoutY="530.0" mnemonicParsing="false" prefWidth="111.0" styleClass="btn12" text="CANCEL">
+         <graphic>
+            <ImageView fitHeight="21.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons8_cancel_16.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button layoutX="1070.0" layoutY="530.0" mnemonicParsing="false" styleClass="btn12" text="ORDER">
+         <graphic>
+            <ImageView fitHeight="21.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons8_bag_16.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </children>
+</Pane>
